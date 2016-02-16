@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+    <user id="1" name="abcd" age="11"/>
+    <user id="2" name="qwer" age="30"/>
+    <user id="3" name="qindeyu" age="21"/>
+    <user id="4" name="sunwenqin" age="20"/>
+    
+    <student id="11" name="qindeyu" depart="ise"/>
+    <student id="12" name="sunwenqin" depart="ise"/>
+    
+    <info id="2" info="测试信息" user_id="4"/>
+</dataset>
